@@ -6,7 +6,7 @@
           <p>欢迎使用 Element</p>
         </el-dialog>
         <group>
-          <cell title="title" value="value"></cell>
+          <cell title="title" value="I am Vux"></cell>
         </group>
         <img style="width: 100%;" src="/img/1-96.jpg">
     </div>
